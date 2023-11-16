@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Emulator config file set to C:\Users\creat\source\repos\Practical7\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] DiagnosticsStoreRootPath set to: C:\Users\creat\AppData\Local\dftmp\Resources\a014876f-1f43-4622-a591-c9e9e6853536
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Loading config file: C:\Users\creat\source\repos\Practical7\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Config file to read: C:\Users\creat\source\repos\Practical7\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Emulator config file set to C:\Users\creat\source\repos\Practical7\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:00:47 PM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:01:58 PM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [11/16/2023 7:01:58 PM] DiagnosticPlugin exited with code 0
